@@ -2289,3 +2289,5 @@ insert into user (id, cart_id, password, username) values (null, ?, ?, ?) [23505
 	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
 
 2021-08-21 14:00:30.138  WARN 24608 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12h47m25s478ms127µs800ns).
+2021-08-21 18:57:35.670  WARN 24608 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h38m5s473ms542µs100ns).
+2021-08-21 22:06:05.508  WARN 24608 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26m29s356ms123µs900ns).
